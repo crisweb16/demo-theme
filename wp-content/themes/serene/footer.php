@@ -11,7 +11,7 @@
 				<?php printf( __( 'Theme: %1$s by %2$s.', 'Serene' ), 'Serene', '<a href="http://www.elegantthemes.com/" rel="designer">Elegant Themes</a>' ); ?>
 			</p>
 		</footer> <!-- #main-footer -->
-	</div> <!-- #container -->
+	</div> <!-- #container Cris Comment TEST-->
 
 	<?php wp_footer(); ?>
 </body>
